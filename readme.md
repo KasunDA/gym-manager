@@ -1,4 +1,4 @@
-# Gym Manager #
+# Gym Manager for WordPress #
 Contributors: pbwebdev
 Donate link: https://pbwebdev.com/
 Tags: comments, spam
@@ -8,11 +8,21 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Gym management plugin for WordPress
+Turn your WordPress based website into a fully functional gym membership management system.
 
 ## Description ##
 
 Alternative gym management program to Mindbody, Wodify and all these other monthly paid ones on the market.
+
+Initial features:
+
+* Daily workout descriptions
+* Class timetable
+
+Coming features:
+
+* Recurring membership payments with Stripe and PayPal
+* Personal records for members
 
 ## Installation ##
 
